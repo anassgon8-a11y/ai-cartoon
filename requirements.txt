@@ -1,0 +1,4 @@
+Pillow>=10.0.0,<12
+requests>=2.32.0,<3
+google-api-python-client>=2.130.0
+google-auth>=2.29.0
